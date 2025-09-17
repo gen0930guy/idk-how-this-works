@@ -1,3 +1,1 @@
-so like this is an application for hiddendevs nayways byeeeeeeeeeeeeeeeeeeeeee
-
-txtfile.txt is the code btw
+oh my GOD im so STUPID.......... i formatted the code correctly now.............. txtfile.lua
