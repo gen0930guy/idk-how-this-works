@@ -33,6 +33,7 @@ local questcd = false
 	"emote",
 	"wait6s"
 	"nineplusten"
+	"binary"
 }
  
  
@@ -381,4 +382,5 @@ questcd = false
  end)
  
  
+
 end)
