@@ -23,7 +23,7 @@ local questcd = false
  questfolder.Parent = plr
  
  
- -- make a table
+ -- make a table for quest names so we can get em
  local questtable = {
    "die",
    "interactpursuer",
@@ -381,4 +381,5 @@ questcd = false
  end)
  
  
+
 end)
